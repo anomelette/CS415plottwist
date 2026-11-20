@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CS415plottwist" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.CS415plottwist" parent="Base.Theme.CS415plottwist" />
+
+    <style name="Theme.ScrollReader" parent="Theme.CS415plottwist" />
+</resources>

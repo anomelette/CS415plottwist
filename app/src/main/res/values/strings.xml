@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScrollReader</string>
+    <string name="accessibility_description">Scroll Reader only checks which app is on screen so it can count your time in social apps (TikTok, Instagram, YouTube and others) and show a book excerpt when you hit your limit. It does not read what is on your screen.</string>
+</resources>
