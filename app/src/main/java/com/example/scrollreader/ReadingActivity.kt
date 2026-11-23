@@ -118,11 +118,11 @@ class ReadingActivity : AppCompatActivity() {
         if (owed > 0) {
             timerText.text = "Keep reading: ${Config.formatSeconds(owed)}"
             doneButton.isEnabled = false
-            openButton.visibility = View.GONE
+            openButton.isEnabled = false
         } else {
             timerText.text = "Nice — you're free to go."
             doneButton.isEnabled = true
-            openButton.visibility = View.VISIBLE
+            openButton.isEnabled = true
         }
     }
 
